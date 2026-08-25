@@ -1,0 +1,6 @@
+Pillow>=11.0
+arabic-reshaper>=3.0
+pypdf>=5.0
+python-bidi>=0.6
+reportlab>=4.2
+yt-dlp>=2025.8
