@@ -1,0 +1,7 @@
+interface:
+  display_name: "YouTube to Book"
+  short_description: "Turn video timestamps into printable booklets"
+  default_prompt: "Use $youtube-to-book to turn my video link and timestamp list into a numbered, single-sided four-up cut-and-stack book PDF."
+
+policy:
+  allow_implicit_invocation: true
